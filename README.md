@@ -30,3 +30,12 @@ A mobile-friendly Recipe Web Application that allows users to browse, search, vi
 
 ## 📁 Folder Structure
 
+/
+├── index.html # Main HTML page
+├── src/
+│ ├── app.js # All JS logic for routing, API, UI
+│ └── app.css # Custom styles
+├── assets/images/ # Icons and assets
+├── manifest.json # For PWA setup
+└── service-worker.js # (Optional) For caching and offline support
+
