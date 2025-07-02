@@ -30,12 +30,48 @@ A mobile-friendly Recipe Web Application that allows users to browse, search, vi
 
 ## 📁 Folder Structure
 
+```
 /
-├── index.html # Main HTML page
+├── index.html               # Main HTML page
 ├── src/
-│ ├── app.js # All JS logic for routing, API, UI
-│ └── app.css # Custom styles
-├── assets/images/ # Icons and assets
-├── manifest.json # For PWA setup
-└── service-worker.js # (Optional) For caching and offline support
+│   ├── app.js              # All JS logic for routing, API, UI
+│   └── app.css             # Custom styles
+├── assets/images/          # Icons and assets
+├── manifest.json           # For PWA setup
+└── service-worker.js       # (Optional) For caching and offline support
+```
+
+---
+
+## 📦 Setup Instructions
+
+To run locally:
+
+```bash
+git clone https://github.com/Hasin02/Reciepe_WebPage.git
+cd Reciepe_WebPage
+# Open index.html directly in your browser
+```
+
+To deploy:
+- Push to GitHub
+- Go to **Settings > Pages**
+- Choose `main` branch and root folder
+- Your site will be live at: `https://<your-username>.github.io/<repo-name>/`
+
+---
+
+## 📸 Screenshots
+
+> (Optional: You can add screenshots or GIFs of your app here)
+
+---
+
+## ✨ Credits
+
+- UI Framework: [Onsen UI](https://onsen.io/)
+- Recipe API: [TheMealDB](https://www.themealdb.com/api.php)
+
+---
+
 
