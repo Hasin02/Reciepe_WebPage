@@ -61,12 +61,6 @@ To deploy:
 
 ---
 
-## 📸 Screenshots
-
-> (Optional: You can add screenshots or GIFs of your app here)
-
----
-
 ## ✨ Credits
 
 - UI Framework: [Onsen UI](https://onsen.io/)
